@@ -12,17 +12,17 @@
 
 ## Estructura del Proyecto
 million-system/
-node_modules/
--- public/
--- src/
-│---- assets/ # Archivos estáticos (imágenes, etc.)
-│---- components/ # Componentes reutilizables
-│------ Filters.jsx
-│------ Header.jsx
-│------ PropertyDetail.jsx
-│------ PropertyList.jsx
-│---- api.js # Archivo de lógica para peticiones a APIs
-│---- App.jsx # Componente principal de React
+├── node_modules/
+├── public/
+├── src/
+│ ├── assets/ # Archivos estáticos (imágenes, etc.)
+│ ├── components/ # Componentes reutilizables
+│ │ ├── Filters.jsx
+│ │ ├── Header.jsx
+│ │ ├── PropertyDetail.jsx
+│ │ ├── PropertyList.jsx
+│ ├── api.js # Archivo de lógica para peticiones a APIs
+│ ├── App.jsx # Componente principal de React
 │ ├── App.css # Estilos del componente App
 │ ├── index.css # Estilos globales
 │ ├── styles.css # Estilos adicionales
