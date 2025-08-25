@@ -1,12 +1,42 @@
-# React + Vite
+# Project Million System Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Million System** es una aplicación web desarrollada con **React + Vite**, diseñada para gestionar y mostrar propiedades inmobiliarias de manera eficiente y moderna.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ⚛React
+-  Vite
+-  CSS (archivos modulares)
+-  Estructura de componentes
+-  npm
 
-## Expanding the ESLint configuration
+million-system/
+├── node_modules/
+├── public/
+├── src/
+│ ├── assets/ # Archivos estáticos (imágenes, etc.)
+│ ├── components/ # Componentes reutilizables
+│ │ ├── Filters.jsx
+│ │ ├── Header.jsx
+│ │ ├── PropertyDetail.jsx
+│ │ ├── PropertyList.jsx
+│ ├── api.js # Archivo de lógica para peticiones a APIs
+│ ├── App.jsx # Componente principal de React
+│ ├── App.css # Estilos del componente App
+│ ├── index.css # Estilos globales
+│ ├── styles.css # Estilos adicionales
+│ ├── main.jsx # Punto de entrada de la aplicación
+├── index.html
+├── package.json
+├── vite.config.js
+├── .gitignore
+├── eslint.config.js
+├── README.md
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Cargue pagina principal del sitio:
+<img width="921" height="585" alt="image" src="https://github.com/user-attachments/assets/1941d3f8-020e-4f97-bfd5-80d256e8107c" />
+
+Prueba de filtros:
+
+<img width="921" height="556" alt="image" src="https://github.com/user-attachments/assets/0f73d5c0-b4cd-4401-abad-78c31a840c76" />
+
