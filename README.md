@@ -11,17 +11,11 @@
 -  npm
 
 million-system/
-
 ├── node_modules/
-
 ├── public/
-
 ├── src/
-
 │ ├── assets/ # Archivos estáticos (imágenes, etc.)
-
 │ ├── components/ # Componentes reutilizables
-
 │ │ ├── Filters.jsx
 │ │ ├── Header.jsx
 │ │ ├── PropertyDetail.jsx
