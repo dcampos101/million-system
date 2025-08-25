@@ -4,7 +4,7 @@
 
 ## Tecnologías utilizadas
 
-- ⚛React
+-  React
 -  Vite
 -  CSS (archivos modulares)
 -  Estructura de componentes
@@ -13,6 +13,7 @@
 ## Estructura del Proyecto
 million-system/
 ├── node_modules/
+
 ├── public/
 ├── src/
 │ ├── assets/ # Archivos estáticos (imágenes, etc.)
