@@ -2,7 +2,7 @@
 
 **Million System** es una aplicación web desarrollada con **React + Vite**, diseñada para gestionar y mostrar propiedades inmobiliarias de manera eficiente y moderna.
 
-## 🚀 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - ⚛React
 -  Vite
