@@ -12,7 +12,7 @@
 
 ## Estructura del Proyecto
 million-system/
---node_modules/
+node_modules/
 -- public/
 -- src/
 │---- assets/ # Archivos estáticos (imágenes, etc.)
