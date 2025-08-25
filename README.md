@@ -10,6 +10,7 @@
 -  Estructura de componentes
 -  npm
 
+## Estructura del Proyecto
 million-system/
 ├── node_modules/
 ├── public/
