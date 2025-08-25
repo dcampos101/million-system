@@ -40,3 +40,5 @@ Prueba de filtros:
 
 <img width="921" height="556" alt="image" src="https://github.com/user-attachments/assets/0f73d5c0-b4cd-4401-abad-78c31a840c76" />
 
+<img width="921" height="587" alt="image" src="https://github.com/user-attachments/assets/42292b3e-068a-407b-a2b8-cacaf9148923" />
+
